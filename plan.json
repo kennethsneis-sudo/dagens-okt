@@ -1,0 +1,1732 @@
+[
+{
+"date": "2026-05-25",
+"week": "w22 2026",
+"dag": "Mandag",
+"hoved": "Race",
+"sek": null,
+"okt": "Race - Fana 3D 4/4",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-05-26",
+"week": "w22 2026",
+"dag": "Tirsdag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Recovery 60 min",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-05-27",
+"week": "w22 2026",
+"dag": "Onsdag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Recovery 60 min",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-05-28",
+"week": "w22 2026",
+"dag": "Torsdag",
+"hoved": "Deload",
+"sek": "Endurance",
+"okt": "Endurance 2h m 3x12s openers",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-05-29",
+"week": "w22 2026",
+"dag": "Fredag",
+"hoved": "Taper",
+"sek": "Recovery",
+"okt": "Pre-race 45 min Z1 + 3x12s openers + 1x3 min @ race-pace",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-05-30",
+"week": "w22 2026",
+"dag": "Lørdag",
+"hoved": "Race",
+"sek": null,
+"okt": "Race - Kristiansand Hovden (210 km)",
+"min": null,
+"kom": "Sykkler tilbake igjen etter rittet (så totalt 420km)"
+},
+{
+"date": "2026-05-31",
+"week": "w22 2026",
+"dag": "Søndag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Recovery 1:00 Z1",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-01",
+"week": "w23 2026",
+"dag": "Mandag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Recovery 1:00 Z1",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-02",
+"week": "w23 2026",
+"dag": "Tirsdag",
+"hoved": "Build",
+"sek": "Endurance",
+"okt": "Endurance 2h",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-03",
+"week": "w23 2026",
+"dag": "Onsdag",
+"hoved": "Build",
+"sek": "VO2",
+"okt": "Klassisk | VO2 5x5 + Endurance (ca 370w)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-04",
+"week": "w23 2026",
+"dag": "Torsdag",
+"hoved": "Build",
+"sek": "THP",
+"okt": "THP 3x15 min @ 305-315W m 6 min Z1-pause",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-05",
+"week": "w23 2026",
+"dag": "Fredag",
+"hoved": "Deload",
+"sek": "Endurance",
+"okt": "Endurance 90min",
+"min": null,
+"kom": "Dyreparken"
+},
+{
+"date": "2026-06-06",
+"week": "w23 2026",
+"dag": "Lørdag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Day off",
+"min": null,
+"kom": "Dyreparken"
+},
+{
+"date": "2026-06-07",
+"week": "w23 2026",
+"dag": "Søndag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Day off",
+"min": null,
+"kom": "Dyreparken"
+},
+{
+"date": "2026-06-08",
+"week": "w24 2026",
+"dag": "Mandag",
+"hoved": "Build",
+"sek": "Endurance",
+"okt": "Endurance 2h",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-09",
+"week": "w24 2026",
+"dag": "Tirsdag",
+"hoved": "Build",
+"sek": "VO2",
+"okt": "5x7 Økt 1 — Klatreprofil-interval (spesifikk lik NM bakken)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-10",
+"week": "w24 2026",
+"dag": "Onsdag",
+"hoved": "Build",
+"sek": "SS",
+"okt": "3h Endurance med 5x7 min SS (300w)",
+"min": null,
+"kom": "Gateritt om det er hensiktsmessig"
+},
+{
+"date": "2026-06-11",
+"week": "w24 2026",
+"dag": "Torsdag",
+"hoved": "Build",
+"sek": "THP",
+"okt": "THP 30-20-10-20-30",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-12",
+"week": "w24 2026",
+"dag": "Fredag",
+"hoved": "Deload",
+"sek": "Endurance",
+"okt": "Endurance 90min",
+"min": null,
+"kom": "Maarud gård"
+},
+{
+"date": "2026-06-13",
+"week": "w24 2026",
+"dag": "Lørdag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Day off",
+"min": null,
+"kom": "Maarud gård"
+},
+{
+"date": "2026-06-14",
+"week": "w24 2026",
+"dag": "Søndag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Day off",
+"min": null,
+"kom": "Maarud gård"
+},
+{
+"date": "2026-06-15",
+"week": "w25 2026",
+"dag": "Mandag",
+"hoved": "Build",
+"sek": "Endurance",
+"okt": "Endurance 2h",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-16",
+"week": "w25 2026",
+"dag": "Tirsdag",
+"hoved": "Build",
+"sek": "VO2",
+"okt": "5x7 Økt 1 — Klatreprofil-interval (spesifikk lik NM bakken)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-17",
+"week": "w25 2026",
+"dag": "Onsdag",
+"hoved": "Build",
+"sek": "SS",
+"okt": "3h Endurance med 5x7 min SS (300w)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-18",
+"week": "w25 2026",
+"dag": "Torsdag",
+"hoved": "Build",
+"sek": "Endurance",
+"okt": "Endurance 2h",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-19",
+"week": "w25 2026",
+"dag": "Fredag",
+"hoved": "Build",
+"sek": "SS",
+"okt": "Endurance 3h Z2 m 2x15 min SS @ 295-305W.",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-20",
+"week": "w25 2026",
+"dag": "Lørdag",
+"hoved": "Build",
+"sek": "Endurance",
+"okt": "Endurance 2h Z2 (eller off om Sommerfest krever det)",
+"min": null,
+"kom": "Dorota Sommerfest Kongsberg - vet ikke hva det betyr for meg"
+},
+{
+"date": "2026-06-21",
+"week": "w25 2026",
+"dag": "Søndag",
+"hoved": "Deload",
+"sek": "Endurance",
+"okt": "Endurance 1:30 Z2",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-22",
+"week": "w26 2026",
+"dag": "Mandag",
+"hoved": "Taper",
+"sek": "Recovery",
+"okt": "Recovery 1:00 Z1",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-23",
+"week": "w26 2026",
+"dag": "Tirsdag",
+"hoved": "Taper",
+"sek": "VO2",
+"okt": "VO2 4x3 min @ 395-410W m 4 min pause + 1:00 Z2 ramme",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-24",
+"week": "w26 2026",
+"dag": "Onsdag",
+"hoved": "Taper",
+"sek": "Endurance",
+"okt": "Endurance 1:30",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-25",
+"week": "w26 2026",
+"dag": "Torsdag",
+"hoved": "Taper",
+"sek": "Endurance",
+"okt": "Endurance 1:30 Z2 + 3x12s openers",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-26",
+"week": "w26 2026",
+"dag": "Fredag",
+"hoved": "Taper",
+"sek": null,
+"okt": "Før race 1:30 - 3×2 min @340–360W, P 3min + 3 x 15 sek spurt max",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-27",
+"week": "w26 2026",
+"dag": "Lørdag",
+"hoved": "Race",
+"sek": "Race",
+"okt": "Race - NM TT (B)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-28",
+"week": "w26 2026",
+"dag": "Søndag",
+"hoved": "Race",
+"sek": "Race",
+"okt": "Race - NM Fellesstart (A)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-06-29",
+"week": "w27 2026",
+"dag": "Mandag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-06-30",
+"week": "w27 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance low (om bena er gode, 5min max)",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-01",
+"week": "w27 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-02",
+"week": "w27 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-03",
+"week": "w27 2026",
+"dag": "Fredag",
+"hoved": "VO2 Block",
+"sek": "Endurance",
+"okt": "Endurance 2h Z2 m 3×12s openers",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-04",
+"week": "w27 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 2x2min@375, p4 + 3x12 sek openers",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-05",
+"week": "w27 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 hard start 6x4, p5min (0:40@450+3:20@370)",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-07-06",
+"week": "w28 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-07-07",
+"week": "w28 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×5 min @ 375-385W p5 min Z1 (siste 2 reps nær-maks)",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-07-08",
+"week": "w28 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 kort 3×13×(30/15s): ON ~405-415W (~100% MAP), OFF ~205W",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-07-09",
+"week": "w28 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-07-10",
+"week": "w28 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×5 min @ 375-385W p5 min Z1 (siste 2 reps nær-maks)",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-11",
+"week": "w28 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "Endurance først, så 6×3 min @ 385-400W,P4 min (etter 1500 kJ)",
+"min": 180,
+"kom": null
+},
+{
+"date": "2026-07-12",
+"week": "w28 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-07-13",
+"week": "w29 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-14",
+"week": "w29 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×4 min @ 375-385W m 4 min + Z2",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-07-15",
+"week": "w29 2026",
+"dag": "Onsdag",
+"hoved": "Ferie - vedlikehold",
+"sek": "Endurance",
+"okt": "Endurance low",
+"min": 120,
+"kom": "Sykkel i koffert, trene på alternativ sykkel"
+},
+{
+"date": "2026-07-16",
+"week": "w29 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off - Reisedag",
+"min": 0,
+"kom": "Beholde øktene, \nmen bytte og tilpasse til de dagene som det passer best\n\n16 dager\n4 x Day off - Reisedag\n3 x Day off\n3 x Endurance\n6 x Kvalitet"
+},
+{
+"date": "2026-07-17",
+"week": "w29 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-18",
+"week": "w29 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Solid Endurance (250-260w, HR138-142, Alpha 0,95-1)",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-19",
+"week": "w29 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 5x30 sek@650",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-20",
+"week": "w30 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-07-21",
+"week": "w30 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×3 min @ 380-395W m 3 min",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-22",
+"week": "w30 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-07-23",
+"week": "w30 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 kort 4×8×(30/15s): ON ~405-415W (~100% MAP), OFF ~205W",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-24",
+"week": "w30 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-25",
+"week": "w30 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off - Reisedag",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-07-26",
+"week": "w30 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 5x30 sek@650",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-27",
+"week": "w31 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×4 min @ 375-390W m 4 min",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-07-28",
+"week": "w31 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off - Reisedag",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-07-29",
+"week": "w31 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-07-30",
+"week": "w31 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 5x30 sek@650",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-07-31",
+"week": "w31 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off - Reisedag",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-08-01",
+"week": "w31 2026",
+"dag": "Lørdag",
+"hoved": "THP block",
+"sek": "Endurance",
+"okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
+"min": 120,
+"kom": "Ikke kvalitet, men hjemme igjen"
+},
+{
+"date": "2026-08-02",
+"week": "w31 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "THP",
+"okt": "Terskel 4×15 min @ 328-335W m 5 min",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-03",
+"week": "w32 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-08-04",
+"week": "w32 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "Over-under 3×20 min: [3 min @ 345-355W / 2 min @ 300W], 6 min pause",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-05",
+"week": "w32 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "Over-under 3×15 min: [3 min @ 345W / 3 min @ 305W], 5 min pause",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-06",
+"week": "w32 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-08-07",
+"week": "w32 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-08",
+"week": "w32 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-08-09",
+"week": "w32 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Race",
+"okt": "Race - Øyern Rundt (B)",
+"min": 210,
+"kom": null
+},
+{
+"date": "2026-08-10",
+"week": "w33 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-08-11",
+"week": "w33 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-12",
+"week": "w33 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "THP pyramide 30-20-10-20-30 @315-325-340-325-315W",
+"min": 180,
+"kom": null
+},
+{
+"date": "2026-08-13",
+"week": "w33 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Endurance low",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-14",
+"week": "w33 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Solid Endurance (250-260w, HR138-142, Alpha 0,95-1)",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-15",
+"week": "w33 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-16",
+"week": "w33 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "THP",
+"okt": "1x45 @325-335",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-17",
+"week": "w34 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Endurance low",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-18",
+"week": "w34 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 5×6 min @ 365-375W P5 min",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-08-19",
+"week": "w34 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "2h enduranse så 3x30 @320",
+"min": 240,
+"kom": null
+},
+{
+"date": "2026-08-20",
+"week": "w34 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-08-21",
+"week": "w34 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 3×12s openers",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-22",
+"week": "w34 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-08-23",
+"week": "w34 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Race",
+"okt": "Race - 2-mila iTT (C)",
+"min": 45,
+"kom": null
+},
+{
+"date": "2026-08-24",
+"week": "w35 2026",
+"dag": "Mandag",
+"hoved": "Taper",
+"sek": "Endurance",
+"okt": "Endurance m 3×12s openers",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-25",
+"week": "w35 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-26",
+"week": "w35 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-08-27",
+"week": "w35 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Reisedag - Day off",
+"min": 0,
+"kom": "Reisedag - Reier 04:00 lokal tid - Day off"
+},
+{
+"date": "2026-08-28",
+"week": "w35 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Lett spinn 30-45 min Z1 (kveld etter ankomst)",
+"min": 60,
+"kom": "Reisedag - Fremme ca  18:00 lokal tid - Kan trene på kvelden etter ankomst"
+},
+{
+"date": "2026-08-29",
+"week": "w35 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-08-30",
+"week": "w35 2026",
+"dag": "Søndag",
+"hoved": "Rece",
+"sek": "Race",
+"okt": "Race . VM Master M45-49 Fellesstart (A)",
+"min": 240,
+"kom": null
+},
+{
+"date": "2026-08-31",
+"week": "w36 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "3-6h rolig Endurance",
+"min": 360,
+"kom": null
+},
+{
+"date": "2026-09-01",
+"week": "w36 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "3-6h rolig Endurance",
+"min": 360,
+"kom": null
+},
+{
+"date": "2026-09-02",
+"week": "w36 2026",
+"dag": "Onsdag",
+"hoved": "Deload",
+"sek": "Recovery",
+"okt": "Reisedag - kan trene kort tidlig",
+"min": 0,
+"kom": "Reisedag - Kan trene kort tidlig på morgenen"
+},
+{
+"date": "2026-09-03",
+"week": "w36 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off - Tur i Tokyo",
+"min": 0,
+"kom": "Day off - Tur i Tokyo"
+},
+{
+"date": "2026-09-04",
+"week": "w36 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Reisedag - Day off",
+"min": 0,
+"kom": "Reisedag - Reier 07:00 lokal tid, hjemme 23:59 lokal tid - Day off"
+},
+{
+"date": "2026-09-05",
+"week": "w36 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-09-06",
+"week": "w36 2026",
+"dag": "Søndag",
+"hoved": "Repeatibility block",
+"sek": "Race",
+"okt": "Race - Kråketråkken (C)",
+"min": 165,
+"kom": null
+},
+{
+"date": "2026-09-07",
+"week": "w37 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-09-08",
+"week": "w37 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-09",
+"week": "w37 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "FRC",
+"okt": "8×[2 min @ 400W + 1 min Z2] + sluttspurt (etter 1800 kJ)",
+"min": 180,
+"kom": null
+},
+{
+"date": "2026-09-10",
+"week": "w37 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-11",
+"week": "w37 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-12",
+"week": "w37 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-09-13",
+"week": "w37 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Race",
+"okt": "Race - Ullensaker Rundt (B)",
+"min": 165,
+"kom": null
+},
+{
+"date": "2026-09-14",
+"week": "w38 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-09-15",
+"week": "w38 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-16",
+"week": "w38 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-17",
+"week": "w38 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "FRC",
+"okt": "6×1 min maks (430-470W) m 4 min + 4×30s spurt + Z2",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-09-18",
+"week": "w38 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-19",
+"week": "w38 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 kort 3×13×(30/15s): ON ~405-415W (MAP), OFF ~205",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-09-20",
+"week": "w38 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-09-21",
+"week": "w39 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-09-22",
+"week": "w39 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "FRC",
+"okt": "8×[2 min @ 400W + 1 min Z2] + sluttspurt (etter 1800 kJ)",
+"min": 180,
+"kom": null
+},
+{
+"date": "2026-09-23",
+"week": "w39 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-09-24",
+"week": "w39 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-25",
+"week": "w39 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-09-26",
+"week": "w39 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Race",
+"okt": "Race - 5 Sjøen Rundt (B)",
+"min": 165,
+"kom": null
+},
+{
+"date": "2026-09-27",
+"week": "w39 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-09-28",
+"week": "w40 2026",
+"dag": "Mandag",
+"hoved": "Taper",
+"sek": "Recovery",
+"okt": "Endurance low",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-09-29",
+"week": "w40 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 3×12s openers",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-09-30",
+"week": "w40 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-10-01",
+"week": "w40 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-10-02",
+"week": "w40 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Endurance low",
+"min": 120,
+"kom": "Reisedag - Kan trene på kvelden etter ankomst"
+},
+{
+"date": "2026-10-03",
+"week": "w40 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Pre race",
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-10-04",
+"week": "w40 2026",
+"dag": "Søndag",
+"hoved": "Rece",
+"sek": "Race",
+"okt": "Race - UCI Varese, EuropaMesterskap M45-49 (A)",
+"min": 240,
+"kom": null
+},
+{
+"date": "2026-10-05",
+"week": "w41 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "3-6h rolig Endurance",
+"min": 360,
+"kom": "Langtur m is"
+},
+{
+"date": "2026-10-06",
+"week": "w41 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Reisedag - Day off",
+"min": 0,
+"kom": "Reisedag - Day off"
+},
+{
+"date": "2026-10-07",
+"week": "w41 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-08",
+"week": "w41 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-09",
+"week": "w41 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-10",
+"week": "w41 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-11",
+"week": "w41 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-12",
+"week": "w42 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-13",
+"week": "w42 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-14",
+"week": "w42 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-15",
+"week": "w42 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-16",
+"week": "w42 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Max 120 min"
+},
+{
+"date": "2026-10-17",
+"week": "w42 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Konsert Malmø - Day off"
+},
+{
+"date": "2026-10-18",
+"week": "w42 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Reise - Day off"
+},
+{
+"date": "2026-10-19",
+"week": "w43 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-20",
+"week": "w43 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-21",
+"week": "w43 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-22",
+"week": "w43 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-23",
+"week": "w43 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-24",
+"week": "w43 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-25",
+"week": "w43 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-26",
+"week": "w44 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-27",
+"week": "w44 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-28",
+"week": "w44 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Reisedag - Reier 08:00 lokal tid, framme 23:59 lokal tid - Day off"
+},
+{
+"date": "2026-10-29",
+"week": "w44 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-30",
+"week": "w44 2026",
+"dag": "Fredag",
+"hoved": "Race",
+"sek": "Race",
+"okt": "Race - VM 24h iTT (A)",
+"min": null,
+"kom": null
+},
+{
+"date": "2026-10-31",
+"week": "w44 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-01",
+"week": "w44 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-02",
+"week": "w45 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-03",
+"week": "w45 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-04",
+"week": "w45 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Reisedag - Day off - Start periode off season - deload etter sesong"
+},
+{
+"date": "2026-11-05",
+"week": "w45 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": "Reisedag - Day off"
+},
+{
+"date": "2026-11-06",
+"week": "w45 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-07",
+"week": "w45 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-08",
+"week": "w45 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-09",
+"week": "w46 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-10",
+"week": "w46 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-11",
+"week": "w46 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-12",
+"week": "w46 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-13",
+"week": "w46 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+}
+]
