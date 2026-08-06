@@ -1095,8 +1095,8 @@
 "dag": "Fredag",
 "hoved": null,
 "sek": "Endurance",
-"okt": "Endurance",
-"min": 120,
+"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
+"min": 90,
 "kom": null
 },
 {
@@ -1104,9 +1104,9 @@
 "week": "w37 2026",
 "dag": "Lørdag",
 "hoved": null,
-"sek": "Pre race",
-"okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
-"min": 90,
+"sek": "Race",
+"okt": "Race - Prøve NM iTT (Bergen)",
+"min": 60,
 "kom": null
 },
 {
@@ -1115,7 +1115,7 @@
 "dag": "Søndag",
 "hoved": null,
 "sek": "Race",
-"okt": "Race - Ullensaker Rundt (B)",
+"okt": "Race - Prøve NM Fellesstart (Bergen)",
 "min": 165,
 "kom": null
 },
