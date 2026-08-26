@@ -973,7 +973,7 @@
 "date": "2026-08-30",
 "week": "w35 2026",
 "dag": "Søndag",
-"hoved": "Rece",
+"hoved": "Race",
 "sek": "Race",
 "okt": "Race . VM Master M45-49 Fellesstart (A)",
 "min": 240,
@@ -1323,7 +1323,7 @@
 "date": "2026-10-04",
 "week": "w40 2026",
 "dag": "Søndag",
-"hoved": "Rece",
+"hoved": "Race",
 "sek": "Race",
 "okt": "Race - UCI Varese, EuropaMesterskap M45-49 (A)",
 "min": 240,
@@ -1447,7 +1447,7 @@
 "sek": null,
 "okt": null,
 "min": null,
-"kom": "Max 120 min"
+"kom": null
 },
 {
 "date": "2026-10-17",
@@ -1457,7 +1457,7 @@
 "sek": null,
 "okt": null,
 "min": null,
-"kom": "Konsert Malmø - Day off"
+"kom": null
 },
 {
 "date": "2026-10-18",
@@ -1467,7 +1467,7 @@
 "sek": null,
 "okt": null,
 "min": null,
-"kom": "Reise - Day off"
+"kom": null
 },
 {
 "date": "2026-10-19",
@@ -1483,246 +1483,6 @@
 "date": "2026-10-20",
 "week": "w43 2026",
 "dag": "Tirsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-21",
-"week": "w43 2026",
-"dag": "Onsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-22",
-"week": "w43 2026",
-"dag": "Torsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-23",
-"week": "w43 2026",
-"dag": "Fredag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-24",
-"week": "w43 2026",
-"dag": "Lørdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-25",
-"week": "w43 2026",
-"dag": "Søndag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-26",
-"week": "w44 2026",
-"dag": "Mandag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-27",
-"week": "w44 2026",
-"dag": "Tirsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-28",
-"week": "w44 2026",
-"dag": "Onsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": "Reisedag - Reier 08:00 lokal tid, framme 23:59 lokal tid - Day off"
-},
-{
-"date": "2026-10-29",
-"week": "w44 2026",
-"dag": "Torsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-30",
-"week": "w44 2026",
-"dag": "Fredag",
-"hoved": "Race",
-"sek": "Race",
-"okt": "Race - VM 24h iTT (A)",
-"min": null,
-"kom": null
-},
-{
-"date": "2026-10-31",
-"week": "w44 2026",
-"dag": "Lørdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-01",
-"week": "w44 2026",
-"dag": "Søndag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-02",
-"week": "w45 2026",
-"dag": "Mandag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-03",
-"week": "w45 2026",
-"dag": "Tirsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-04",
-"week": "w45 2026",
-"dag": "Onsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": "Reisedag - Day off - Start periode off season - deload etter sesong"
-},
-{
-"date": "2026-11-05",
-"week": "w45 2026",
-"dag": "Torsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": "Reisedag - Day off"
-},
-{
-"date": "2026-11-06",
-"week": "w45 2026",
-"dag": "Fredag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-07",
-"week": "w45 2026",
-"dag": "Lørdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-08",
-"week": "w45 2026",
-"dag": "Søndag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-09",
-"week": "w46 2026",
-"dag": "Mandag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-10",
-"week": "w46 2026",
-"dag": "Tirsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-11",
-"week": "w46 2026",
-"dag": "Onsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-12",
-"week": "w46 2026",
-"dag": "Torsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-13",
-"week": "w46 2026",
-"dag": "Fredag",
 "hoved": null,
 "sek": null,
 "okt": null,
