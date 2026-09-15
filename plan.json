@@ -1384,8 +1384,8 @@
 "week": "w41 2026",
 "dag": "Lørdag",
 "hoved": null,
-"sek": "Recovery",
-"okt": "Fri sykling 1:15 lett (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
+"sek": "FRC",
+"okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
 "min": 75,
 "kom": null
 },
@@ -1425,7 +1425,7 @@
 "dag": "Onsdag",
 "hoved": null,
 "sek": "Endurance",
-"okt": "Løp - 20 min rolig (HR <140, kadens ≥170 spm). Ingen sykkel",
+"okt": "Løp - 20 min rolig (HR <140). Ingen sykkel",
 "min": 20,
 "kom": null
 },
@@ -1434,8 +1434,8 @@
 "week": "w42 2026",
 "dag": "Torsdag",
 "hoved": null,
-"sek": "Recovery",
-"okt": "Lett sykling 1:15 + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
+"sek": "FRC",
+"okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
 "min": 75,
 "kom": null
 },
@@ -1445,7 +1445,7 @@
 "dag": "Fredag",
 "hoved": null,
 "sek": "Endurance",
-"okt": "Løp - 20 min rolig. Ingen sykkel",
+"okt": "🏃 Løp - 20 min rolig. Ingen sykkel",
 "min": 20,
 "kom": null
 },
@@ -1484,8 +1484,8 @@
 "week": "w43 2026",
 "dag": "Tirsdag",
 "hoved": null,
-"sek": "Endurance",
-"okt": "Endurance 1:30 Z2 (200–250 W, HR 120–140) + 3×3×30 s maks til slutt",
+"sek": "FRC",
+"okt": "Endurance (200–250 W, HR 120–140) + 3×3×30 s maks til slutt",
 "min": 90,
 "kom": null
 },
@@ -1495,7 +1495,7 @@
 "dag": "Onsdag",
 "hoved": null,
 "sek": "Endurance",
-"okt": "Løp 20 min rolig. Ingen sykkel",
+"okt": "🏃 Løp - 20 min rolig (HR <140). Ingen sykkel",
 "min": 20,
 "kom": null
 },
@@ -1515,7 +1515,7 @@
 "dag": "Fredag",
 "hoved": null,
 "sek": "Endurance",
-"okt": "Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
+"okt": "🏃 Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
 "min": 65,
 "kom": null
 },
