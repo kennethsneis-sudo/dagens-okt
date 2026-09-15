@@ -1333,9 +1333,9 @@
 "date": "2026-10-05",
 "week": "w41 2026",
 "dag": "Mandag",
-"hoved": null,
+"hoved": "Overgang til ny sesong",
 "sek": "Endurance",
-"okt": "3-6h rolig Endurance",
+"okt": "Endurance (200–250 W, HR 120–140) - Langtur 3–6 t rolig",
 "min": 360,
 "kom": "Langtur m is"
 },
@@ -1345,7 +1345,7 @@
 "dag": "Tirsdag",
 "hoved": null,
 "sek": "Recovery",
-"okt": "Reisedag - Day off",
+"okt": "Reisedag – day off",
 "min": 0,
 "kom": "Reisedag - Day off"
 },
@@ -1354,9 +1354,9 @@
 "week": "w41 2026",
 "dag": "Onsdag",
 "hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
 "kom": null
 },
 {
@@ -1364,9 +1364,9 @@
 "week": "w41 2026",
 "dag": "Torsdag",
 "hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
 "kom": null
 },
 {
@@ -1374,9 +1374,9 @@
 "week": "w41 2026",
 "dag": "Fredag",
 "hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
 "kom": null
 },
 {
@@ -1384,9 +1384,9 @@
 "week": "w41 2026",
 "dag": "Lørdag",
 "hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Recovery",
+"okt": "Fri sykling 1:15 lett (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
+"min": 75,
 "kom": null
 },
 {
@@ -1394,14 +1394,154 @@
 "week": "w41 2026",
 "dag": "Søndag",
 "hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
 "kom": null
 },
 {
 "date": "2026-10-12",
 "week": "w42 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-10-13",
+"week": "w42 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Fri sykling 1:00 lett (<200 W). Ingen struktur",
+"min": 60,
+"kom": null
+},
+{
+"date": "2026-10-14",
+"week": "w42 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Løp - 20 min rolig (HR <140, kadens ≥170 spm). Ingen sykkel",
+"min": 20,
+"kom": null
+},
+{
+"date": "2026-10-15",
+"week": "w42 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Lett sykling 1:15 + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
+"min": 75,
+"kom": null
+},
+{
+"date": "2026-10-16",
+"week": "w42 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Løp - 20 min rolig. Ingen sykkel",
+"min": 20,
+"kom": null
+},
+{
+"date": "2026-10-17",
+"week": "w42 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-10-18",
+"week": "w42 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-10-19",
+"week": "w43 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-10-20",
+"week": "w43 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance 1:30 Z2 (200–250 W, HR 120–140) + 3×3×30 s maks til slutt",
+"min": 90,
+"kom": null
+},
+{
+"date": "2026-10-21",
+"week": "w43 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Løp 20 min rolig. Ingen sykkel",
+"min": 20,
+"kom": null
+},
+{
+"date": "2026-10-22",
+"week": "w43 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Langtur 2:30 Z2 (200–250 W, HR 120–140). Sammenhengende, ingen intervaller",
+"min": 150,
+"kom": null
+},
+{
+"date": "2026-10-23",
+"week": "w43 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
+"min": 65,
+"kom": null
+},
+{
+"date": "2026-10-24",
+"week": "w43 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "VO2",
+"okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
+"min": 120,
+"kom": null
+},
+{
+"date": "2026-10-25",
+"week": "w43 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"kom": null
+},
+{
+"date": "2026-10-26",
+"week": "w44 2026",
 "dag": "Mandag",
 "hoved": null,
 "sek": null,
@@ -1410,8 +1550,8 @@
 "kom": null
 },
 {
-"date": "2026-10-13",
-"week": "w42 2026",
+"date": "2026-10-27",
+"week": "w44 2026",
 "dag": "Tirsdag",
 "hoved": null,
 "sek": null,
@@ -1420,8 +1560,8 @@
 "kom": null
 },
 {
-"date": "2026-10-14",
-"week": "w42 2026",
+"date": "2026-10-28",
+"week": "w44 2026",
 "dag": "Onsdag",
 "hoved": null,
 "sek": null,
@@ -1430,8 +1570,8 @@
 "kom": null
 },
 {
-"date": "2026-10-15",
-"week": "w42 2026",
+"date": "2026-10-29",
+"week": "w44 2026",
 "dag": "Torsdag",
 "hoved": null,
 "sek": null,
@@ -1440,8 +1580,8 @@
 "kom": null
 },
 {
-"date": "2026-10-16",
-"week": "w42 2026",
+"date": "2026-10-30",
+"week": "w44 2026",
 "dag": "Fredag",
 "hoved": null,
 "sek": null,
@@ -1450,8 +1590,8 @@
 "kom": null
 },
 {
-"date": "2026-10-17",
-"week": "w42 2026",
+"date": "2026-10-31",
+"week": "w44 2026",
 "dag": "Lørdag",
 "hoved": null,
 "sek": null,
@@ -1460,8 +1600,8 @@
 "kom": null
 },
 {
-"date": "2026-10-18",
-"week": "w42 2026",
+"date": "2026-11-01",
+"week": "w44 2026",
 "dag": "Søndag",
 "hoved": null,
 "sek": null,
@@ -1470,8 +1610,8 @@
 "kom": null
 },
 {
-"date": "2026-10-19",
-"week": "w43 2026",
+"date": "2026-11-02",
+"week": "w45 2026",
 "dag": "Mandag",
 "hoved": null,
 "sek": null,
@@ -1480,9 +1620,59 @@
 "kom": null
 },
 {
-"date": "2026-10-20",
-"week": "w43 2026",
+"date": "2026-11-03",
+"week": "w45 2026",
 "dag": "Tirsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-04",
+"week": "w45 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-05",
+"week": "w45 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-06",
+"week": "w45 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-07",
+"week": "w45 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-08",
+"week": "w45 2026",
+"dag": "Søndag",
 "hoved": null,
 "sek": null,
 "okt": null,
