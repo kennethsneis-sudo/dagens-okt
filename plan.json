@@ -1555,7 +1555,7 @@
 "dag": "Tirsdag",
 "hoved": null,
 "sek": null,
-"okt": null,
+"okt": "Test på om det virker",
 "min": null,
 "kom": null
 },
@@ -1673,6 +1673,26 @@
 "date": "2026-11-08",
 "week": "w45 2026",
 "dag": "Søndag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-09",
+"week": "w46 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": null,
+"okt": null,
+"min": null,
+"kom": null
+},
+{
+"date": "2026-11-10",
+"week": "w46 2026",
+"dag": "Tirsdag",
 "hoved": null,
 "sek": null,
 "okt": null,
