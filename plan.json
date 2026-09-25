@@ -7,6 +7,7 @@
 "sek": null,
 "okt": "Race - Fana 3D 4/4",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -17,6 +18,7 @@
 "sek": "Recovery",
 "okt": "Recovery 60 min",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -27,6 +29,7 @@
 "sek": "Recovery",
 "okt": "Recovery 60 min",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -37,6 +40,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h m 3x12s openers",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -47,6 +51,7 @@
 "sek": "Recovery",
 "okt": "Pre-race 45 min Z1 + 3x12s openers + 1x3 min @ race-pace",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -57,6 +62,7 @@
 "sek": null,
 "okt": "Race - Kristiansand Hovden (210 km)",
 "min": null,
+"tid": null,
 "kom": "Sykkler tilbake igjen etter rittet (så totalt 420km)"
 },
 {
@@ -67,6 +73,7 @@
 "sek": "Recovery",
 "okt": "Recovery 1:00 Z1",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -77,6 +84,7 @@
 "sek": "Recovery",
 "okt": "Recovery 1:00 Z1",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -87,6 +95,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -97,6 +106,7 @@
 "sek": "VO2",
 "okt": "Klassisk | VO2 5x5 + Endurance (ca 370w)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -107,6 +117,7 @@
 "sek": "THP",
 "okt": "THP 3x15 min @ 305-315W m 6 min Z1-pause",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -117,6 +128,7 @@
 "sek": "Endurance",
 "okt": "Endurance 90min",
 "min": null,
+"tid": null,
 "kom": "Dyreparken"
 },
 {
@@ -127,6 +139,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": null,
+"tid": null,
 "kom": "Dyreparken"
 },
 {
@@ -137,6 +150,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": null,
+"tid": null,
 "kom": "Dyreparken"
 },
 {
@@ -147,6 +161,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -157,6 +172,7 @@
 "sek": "VO2",
 "okt": "5x7 Økt 1 — Klatreprofil-interval (spesifikk lik NM bakken)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -167,6 +183,7 @@
 "sek": "SS",
 "okt": "3h Endurance med 5x7 min SS (300w)",
 "min": null,
+"tid": null,
 "kom": "Gateritt om det er hensiktsmessig"
 },
 {
@@ -177,6 +194,7 @@
 "sek": "THP",
 "okt": "THP 30-20-10-20-30",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -187,6 +205,7 @@
 "sek": "Endurance",
 "okt": "Endurance 90min",
 "min": null,
+"tid": null,
 "kom": "Maarud gård"
 },
 {
@@ -197,6 +216,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": null,
+"tid": null,
 "kom": "Maarud gård"
 },
 {
@@ -207,6 +227,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": null,
+"tid": null,
 "kom": "Maarud gård"
 },
 {
@@ -217,6 +238,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -227,6 +249,7 @@
 "sek": "VO2",
 "okt": "5x7 Økt 1 — Klatreprofil-interval (spesifikk lik NM bakken)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -237,6 +260,7 @@
 "sek": "SS",
 "okt": "3h Endurance med 5x7 min SS (300w)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -247,6 +271,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -257,6 +282,7 @@
 "sek": "SS",
 "okt": "Endurance 3h Z2 m 2x15 min SS @ 295-305W.",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -267,6 +293,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h Z2 (eller off om Sommerfest krever det)",
 "min": null,
+"tid": null,
 "kom": "Dorota Sommerfest Kongsberg - vet ikke hva det betyr for meg"
 },
 {
@@ -277,6 +304,7 @@
 "sek": "Endurance",
 "okt": "Endurance 1:30 Z2",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -287,6 +315,7 @@
 "sek": "Recovery",
 "okt": "Recovery 1:00 Z1",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -297,6 +326,7 @@
 "sek": "VO2",
 "okt": "VO2 4x3 min @ 395-410W m 4 min pause + 1:00 Z2 ramme",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -307,6 +337,7 @@
 "sek": "Endurance",
 "okt": "Endurance 1:30",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -317,6 +348,7 @@
 "sek": "Endurance",
 "okt": "Endurance 1:30 Z2 + 3x12s openers",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -327,6 +359,7 @@
 "sek": null,
 "okt": "Før race 1:30 - 3×2 min @340–360W, P 3min + 3 x 15 sek spurt max",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -337,6 +370,7 @@
 "sek": "Race",
 "okt": "Race - NM TT (B)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -347,6 +381,7 @@
 "sek": "Race",
 "okt": "Race - NM Fellesstart (A)",
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -357,6 +392,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -367,6 +403,7 @@
 "sek": "Endurance",
 "okt": "Endurance low (om bena er gode, 5min max)",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -377,6 +414,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -387,6 +425,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -397,6 +436,7 @@
 "sek": "Endurance",
 "okt": "Endurance 2h Z2 m 3×12s openers",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -407,6 +447,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 2x2min@375, p4 + 3x12 sek openers",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -417,6 +458,7 @@
 "sek": "VO2",
 "okt": "VO2 hard start 6x4, p5min (0:40@450+3:20@370)",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -427,6 +469,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -437,6 +480,7 @@
 "sek": "VO2",
 "okt": "VO2 5×5 min @ 375-385W p5 min Z1 (siste 2 reps nær-maks)",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -447,6 +491,7 @@
 "sek": "VO2",
 "okt": "VO2 kort 3×13×(30/15s): ON ~405-415W (~100% MAP), OFF ~205W",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -457,6 +502,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -467,6 +513,7 @@
 "sek": "VO2",
 "okt": "VO2 5×5 min @ 375-385W p5 min Z1 (siste 2 reps nær-maks)",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -477,6 +524,7 @@
 "sek": "VO2",
 "okt": "Endurance først, så 6×3 min @ 385-400W,P4 min (etter 1500 kJ)",
 "min": 180,
+"tid": null,
 "kom": null
 },
 {
@@ -487,6 +535,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -497,6 +546,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -507,6 +557,7 @@
 "sek": "VO2",
 "okt": "VO2 5×4 min @ 375-385W m 4 min + Z2",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -517,6 +568,7 @@
 "sek": "Endurance",
 "okt": "Endurance low",
 "min": 120,
+"tid": null,
 "kom": "Sykkel i koffert, trene på alternativ sykkel"
 },
 {
@@ -527,6 +579,7 @@
 "sek": "Recovery",
 "okt": "Day off - Reisedag",
 "min": 0,
+"tid": null,
 "kom": "Beholde øktene, \nmen bytte og tilpasse til de dagene som det passer best\n\n16 dager\n4 x Day off - Reisedag\n3 x Day off\n3 x Endurance\n6 x Kvalitet"
 },
 {
@@ -537,6 +590,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -547,6 +601,7 @@
 "sek": "Endurance",
 "okt": "Solid Endurance (250-260w, HR138-142, Alpha 0,95-1)",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -557,6 +612,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 5x30 sek@650",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -567,6 +623,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -577,6 +634,7 @@
 "sek": "VO2",
 "okt": "VO2 5×4 min @ 375-390W m 4 min",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -587,6 +645,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -597,6 +656,7 @@
 "sek": "VO2",
 "okt": "VO2 kort 4×8×(30/15s): ON ~405-415W (~100% MAP), OFF ~205W",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -607,6 +667,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -617,6 +678,7 @@
 "sek": "Recovery",
 "okt": "Day off - Reisedag",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -627,6 +689,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 5x30 sek@650",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -637,6 +700,7 @@
 "sek": "VO2",
 "okt": "VO2 5×4 min @ 375-390W m 4 min",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -647,6 +711,7 @@
 "sek": "Recovery",
 "okt": "Day off - Reisedag",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -657,6 +722,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -667,6 +733,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 5x30 sek@650",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -677,6 +744,7 @@
 "sek": "Recovery",
 "okt": "Day off - Reisedag",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -687,6 +755,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
 "min": 120,
+"tid": null,
 "kom": "Ikke kvalitet, men hjemme igjen"
 },
 {
@@ -697,6 +766,7 @@
 "sek": "THP",
 "okt": "Terskel 4×15 min @ 328-335W p5 min",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -707,6 +777,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -717,6 +788,7 @@
 "sek": "THP",
 "okt": "Over-under 3×20 min: [3 min @ 345-355W / 2 min @ 300W], 6 min pause",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -727,6 +799,7 @@
 "sek": "THP",
 "okt": "Over-under 3×15 min: [3 min @ 345W / 3 min @ 305W], 5 min pause",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -737,6 +810,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -747,6 +821,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -757,6 +832,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -767,6 +843,7 @@
 "sek": "Race",
 "okt": "Race - Øyern Rundt (B)",
 "min": 210,
+"tid": null,
 "kom": null
 },
 {
@@ -777,6 +854,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -787,6 +865,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -797,6 +876,7 @@
 "sek": "THP",
 "okt": "THP pyramide 30-20-10-20-30 @315-325-340-325-315W",
 "min": 180,
+"tid": null,
 "kom": null
 },
 {
@@ -807,6 +887,7 @@
 "sek": "Recovery",
 "okt": "Endurance low",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -817,6 +898,7 @@
 "sek": "Endurance",
 "okt": "Solid Endurance (250-260w, HR138-142, Alpha 0,95-1)",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -827,6 +909,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -837,6 +920,7 @@
 "sek": "THP",
 "okt": "1x45 @325-335",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -847,6 +931,7 @@
 "sek": "Recovery",
 "okt": "Endurance low",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -857,6 +942,7 @@
 "sek": "VO2",
 "okt": "VO2 5×6 min @ 365-375W P5 min",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -867,6 +953,7 @@
 "sek": "THP",
 "okt": "2h enduranse så 3x30 @320",
 "min": 240,
+"tid": null,
 "kom": null
 },
 {
@@ -877,6 +964,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -887,6 +975,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×12s openers",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -897,6 +986,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -907,6 +997,7 @@
 "sek": "Race",
 "okt": "Race - 2-mila iTT (C)",
 "min": 45,
+"tid": null,
 "kom": null
 },
 {
@@ -917,6 +1008,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×12s openers",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -927,6 +1019,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -937,6 +1030,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -947,6 +1041,7 @@
 "sek": "Recovery",
 "okt": "Reisedag - Day off",
 "min": 0,
+"tid": null,
 "kom": "Reisedag - Reier 04:00 lokal tid - Day off"
 },
 {
@@ -957,6 +1052,7 @@
 "sek": "Recovery",
 "okt": "Lett spinn 30-45 min Z1 (kveld etter ankomst)",
 "min": 60,
+"tid": null,
 "kom": "Reisedag - Fremme ca  18:00 lokal tid - Kan trene på kvelden etter ankomst"
 },
 {
@@ -967,6 +1063,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -977,6 +1074,7 @@
 "sek": "Race",
 "okt": "Race . VM Master M45-49 Fellesstart (A)",
 "min": 240,
+"tid": null,
 "kom": null
 },
 {
@@ -987,6 +1085,7 @@
 "sek": "Endurance",
 "okt": "3-6h rolig Endurance",
 "min": 360,
+"tid": null,
 "kom": null
 },
 {
@@ -997,6 +1096,7 @@
 "sek": "Endurance",
 "okt": "3-6h rolig Endurance",
 "min": 360,
+"tid": null,
 "kom": null
 },
 {
@@ -1007,6 +1107,7 @@
 "sek": "Recovery",
 "okt": "Reisedag - kan trene kort tidlig",
 "min": 0,
+"tid": null,
 "kom": "Reisedag - Kan trene kort tidlig på morgenen"
 },
 {
@@ -1017,6 +1118,7 @@
 "sek": "Recovery",
 "okt": "Day off - Tur i Tokyo",
 "min": 0,
+"tid": null,
 "kom": "Day off - Tur i Tokyo"
 },
 {
@@ -1027,6 +1129,7 @@
 "sek": "Recovery",
 "okt": "Reisedag - Day off",
 "min": 0,
+"tid": null,
 "kom": "Reisedag - Reier 07:00 lokal tid, hjemme 23:59 lokal tid - Day off"
 },
 {
@@ -1037,6 +1140,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1047,6 +1151,7 @@
 "sek": "Race",
 "okt": "Race - Kråketråkken (C)",
 "min": 165,
+"tid": null,
 "kom": null
 },
 {
@@ -1057,6 +1162,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1067,6 +1173,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1077,6 +1184,7 @@
 "sek": "FRC",
 "okt": "8×[2 min @ 400W + 1 min Z2] + sluttspurt (etter 1800 kJ)",
 "min": 180,
+"tid": null,
 "kom": null
 },
 {
@@ -1087,6 +1195,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1097,6 +1206,7 @@
 "sek": "Endurance",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1107,6 +1217,7 @@
 "sek": "Race",
 "okt": "Race - Prøve NM iTT (Bergen)",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -1117,6 +1228,7 @@
 "sek": "Race",
 "okt": "Race - Prøve NM Fellesstart (Bergen)",
 "min": 165,
+"tid": null,
 "kom": null
 },
 {
@@ -1127,6 +1239,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1137,6 +1250,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1147,6 +1261,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1157,6 +1272,7 @@
 "sek": "FRC",
 "okt": "6×1 min maks (430-470W) m 4 min + 4×30s spurt + Z2",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -1167,6 +1283,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1177,6 +1294,7 @@
 "sek": "VO2",
 "okt": "VO2 kort 3×13×(30/15s): ON ~405-415W (MAP), OFF ~205",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -1187,6 +1305,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -1197,6 +1316,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1207,6 +1327,7 @@
 "sek": "FRC",
 "okt": "8×[2 min @ 400W + 1 min Z2] + sluttspurt (etter 1800 kJ)",
 "min": 180,
+"tid": null,
 "kom": null
 },
 {
@@ -1217,6 +1338,7 @@
 "sek": "Recovery",
 "okt": "Recovery",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -1227,6 +1349,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1237,6 +1360,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1247,6 +1371,7 @@
 "sek": "Race",
 "okt": "Race - 5 Sjøen Rundt (B)",
 "min": 165,
+"tid": null,
 "kom": null
 },
 {
@@ -1257,6 +1382,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1267,6 +1393,7 @@
 "sek": "Recovery",
 "okt": "Endurance low",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1277,6 +1404,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×12s openers",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1287,6 +1415,7 @@
 "sek": "Endurance",
 "okt": "Endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1297,6 +1426,7 @@
 "sek": "Endurance",
 "okt": "Endurance m 3×2 min @ 360-375W + 3×12s",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1307,6 +1437,7 @@
 "sek": "Recovery",
 "okt": "Endurance low",
 "min": 120,
+"tid": null,
 "kom": "Reisedag - Kan trene på kvelden etter ankomst"
 },
 {
@@ -1317,6 +1448,7 @@
 "sek": "Pre race",
 "okt": "Pre race 90-120 min: - 2x2min@375, p4 + 3x12 sek openers",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1327,6 +1459,7 @@
 "sek": "Race",
 "okt": "Race - UCI Varese, EuropaMesterskap M45-49 (A)",
 "min": 240,
+"tid": null,
 "kom": null
 },
 {
@@ -1337,6 +1470,7 @@
 "sek": "Endurance",
 "okt": "Endurance (200–250 W, HR 120–140) - Langtur 3–6 t rolig",
 "min": 360,
+"tid": null,
 "kom": "Langtur m is"
 },
 {
@@ -1347,6 +1481,7 @@
 "sek": "Recovery",
 "okt": "Reisedag – day off",
 "min": 0,
+"tid": null,
 "kom": "Reisedag - Day off"
 },
 {
@@ -1357,6 +1492,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1367,6 +1503,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1377,6 +1514,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1387,6 +1525,7 @@
 "sek": "FRC",
 "okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
 "min": 75,
+"tid": null,
 "kom": null
 },
 {
@@ -1397,6 +1536,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1407,6 +1547,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1417,6 +1558,7 @@
 "sek": "Recovery",
 "okt": "Fri sykling 1:00 lett (<200 W). Ingen struktur",
 "min": 60,
+"tid": null,
 "kom": null
 },
 {
@@ -1427,6 +1569,7 @@
 "sek": "Endurance",
 "okt": "Løp - 20 min rolig (HR <140). Ingen sykkel",
 "min": 20,
+"tid": null,
 "kom": null
 },
 {
@@ -1437,6 +1580,7 @@
 "sek": "FRC",
 "okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
 "min": 75,
+"tid": null,
 "kom": null
 },
 {
@@ -1447,6 +1591,7 @@
 "sek": "Endurance",
 "okt": "🏃 Løp - 20 min rolig. Ingen sykkel",
 "min": 20,
+"tid": null,
 "kom": null
 },
 {
@@ -1457,6 +1602,7 @@
 "sek": "VO2",
 "okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1467,6 +1613,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1477,6 +1624,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1487,6 +1635,7 @@
 "sek": "FRC",
 "okt": "Endurance (200–250 W, HR 120–140) + 3×3×30 s maks til slutt",
 "min": 90,
+"tid": null,
 "kom": null
 },
 {
@@ -1497,6 +1646,7 @@
 "sek": "Endurance",
 "okt": "🏃 Løp - 20 min rolig (HR <140). Ingen sykkel",
 "min": 20,
+"tid": null,
 "kom": null
 },
 {
@@ -1507,6 +1657,7 @@
 "sek": "Endurance",
 "okt": "Langtur 2:30 Z2 (200–250 W, HR 120–140). Sammenhengende, ingen intervaller",
 "min": 150,
+"tid": null,
 "kom": null
 },
 {
@@ -1517,6 +1668,7 @@
 "sek": "Endurance",
 "okt": "🏃 Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
 "min": 65,
+"tid": null,
 "kom": null
 },
 {
@@ -1527,6 +1679,7 @@
 "sek": "VO2",
 "okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
 "min": 120,
+"tid": null,
 "kom": null
 },
 {
@@ -1537,6 +1690,7 @@
 "sek": "Recovery",
 "okt": "Day off",
 "min": 0,
+"tid": null,
 "kom": null
 },
 {
@@ -1547,7 +1701,8 @@
 "sek": null,
 "okt": null,
 "min": null,
-"kom": null
+"tid": null,
+"kom": "Start 2027 sesongen"
 },
 {
 "date": "2026-10-27",
@@ -1555,8 +1710,9 @@
 "dag": "Tirsdag",
 "hoved": null,
 "sek": null,
-"okt": "Test på om det virker",
+"okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1567,6 +1723,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1577,6 +1734,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1587,6 +1745,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1597,6 +1756,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1607,6 +1767,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1617,6 +1778,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1627,6 +1789,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1637,6 +1800,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1647,6 +1811,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1657,6 +1822,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1667,6 +1833,7 @@
 "sek": null,
 "okt": null,
 "min": null,
+"tid": null,
 "kom": null
 },
 {
@@ -1677,26 +1844,7 @@
 "sek": null,
 "okt": null,
 "min": null,
-"kom": null
-},
-{
-"date": "2026-11-09",
-"week": "w46 2026",
-"dag": "Mandag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
-"kom": null
-},
-{
-"date": "2026-11-10",
-"week": "w46 2026",
-"dag": "Tirsdag",
-"hoved": null,
-"sek": null,
-"okt": null,
-"min": null,
+"tid": null,
 "kom": null
 }
 ]

@@ -117,6 +117,7 @@ function classify(s){
   if(h.includes("taper"))return"taper";
   return"none";
 }
+function dur(p){ return p&&p.tid?esc(p.tid):fmtDur(p?p.min:null); }
 function fmtDur(min){ if(min==null||min===0)return"Hvile"; const h=Math.floor(min/60),m=min%60;
   return h&&m?`${h}t ${m}m`:h?`${h}t`:`${m}m`; }
 function localISO(d){ return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`; }
@@ -150,7 +151,7 @@ function render(){
           ${fase?`<span class="fase mono">${esc(fase)}</span>`:""}
         </div>
         ${chip(zone,"lg")}
-        <div class="dur mono">${fmtDur(s?s.min:null)}</div>
+        <div class="dur mono">${dur(s)}</div>
         <div class="okt">${s&&s.okt?esc(s.okt):"Ingen planlagt økt."}</div>
         ${s&&s.kom?`<div class="kom" style="border-left:2px solid ${z.c}">${esc(s.kom)}</div>`:""}
       </div>
@@ -161,7 +162,7 @@ function render(){
   const nextCard=`
     <div class="next">
       <div class="lbl mono">Neste · ${ns?esc(ns.dag):""} ${pretty(next)}</div>
-      <div class="row">${chip(nz,"sm")}<span class="ndur mono">${fmtDur(ns?ns.min:null)}</span></div>
+      <div class="row">${chip(nz,"sm")}<span class="ndur mono">${dur(ns)}</span></div>
       <div class="nokt">${ns&&ns.okt?esc(ns.okt):"Ingen planlagt økt."}</div>
     </div>`;
 
@@ -176,7 +177,7 @@ function render(){
       <span class="dg mono">${ds?esc(ds.dag).slice(0,3):""}</span>
       <span class="dot" style="background:${c}"></span>
       <span class="dk">${ds&&ds.okt?esc(ds.okt):"—"}</span>
-      <span class="dd mono" style="${active?`color:${c}`:""}">${ds?fmtDur(ds.min):""}</span>
+      <span class="dd mono" style="${active?`color:${c}`:""}">${ds?dur(ds):""}</span>
     </button>`;
   }).join("");
   const week=`<div class="week"><div class="wlbl mono">${wk?esc(wk.week):"Uke"}</div>${rows}</div>`;
