@@ -1545,8 +1545,8 @@
 "dag": "Mandag",
 "hoved": null,
 "sek": "Recovery",
-"okt": "Day off",
-"min": 0,
+"okt": "Fri sykling 1:00 lett (<200 W). Ingen struktur",
+"min": 60,
 "tid": null,
 "kom": null
 },
@@ -1555,9 +1555,9 @@
 "week": "w42 2026",
 "dag": "Tirsdag",
 "hoved": null,
-"sek": "Recovery",
-"okt": "Fri sykling 1:00 lett (<200 W). Ingen struktur",
-"min": 60,
+"sek": "Endurance",
+"okt": "🏃 Løp - 20 min rolig (HR <140). Ingen sykkel",
+"min": 20,
 "tid": null,
 "kom": null
 },
@@ -1566,9 +1566,9 @@
 "week": "w42 2026",
 "dag": "Onsdag",
 "hoved": null,
-"sek": "Endurance",
-"okt": "Løp - 20 min rolig (HR <140). Ingen sykkel",
-"min": 20,
+"sek": "FRC",
+"okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
+"min": 75,
 "tid": null,
 "kom": null
 },
@@ -1577,9 +1577,9 @@
 "week": "w42 2026",
 "dag": "Torsdag",
 "hoved": null,
-"sek": "FRC",
-"okt": "Endurance low (<180 W) + 3×3×30 s maks. 4 min mellom rep, 8 min mellom serier",
-"min": 75,
+"sek": "Endurance",
+"okt": "🏃 Løp - 20 min rolig. Ingen sykkel",
+"min": 20,
 "tid": null,
 "kom": null
 },
@@ -1588,9 +1588,9 @@
 "week": "w42 2026",
 "dag": "Fredag",
 "hoved": null,
-"sek": "Endurance",
-"okt": "🏃 Løp - 20 min rolig. Ingen sykkel",
-"min": 20,
+"sek": "VO2",
+"okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
+"min": 120,
 "tid": null,
 "kom": null
 },
@@ -1599,11 +1599,11 @@
 "week": "w42 2026",
 "dag": "Lørdag",
 "hoved": null,
-"sek": "VO2",
-"okt": "VO2 4×4 min @ 360–375 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
-"min": 120,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
 "tid": null,
-"kom": null
+"kom": "Malmø tur"
 },
 {
 "date": "2026-10-18",
@@ -1614,15 +1614,15 @@
 "okt": "Day off",
 "min": 0,
 "tid": null,
-"kom": null
+"kom": "Malmø tur"
 },
 {
 "date": "2026-10-19",
 "week": "w43 2026",
 "dag": "Mandag",
 "hoved": null,
-"sek": "Recovery",
-"okt": "Day off",
+"sek": "Endurance",
+"okt": "🏃 Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
 "min": 0,
 "tid": null,
 "kom": null
@@ -1665,8 +1665,8 @@
 "week": "w43 2026",
 "dag": "Fredag",
 "hoved": null,
-"sek": "Endurance",
-"okt": "🏃 Løp - 20 min rolig \nSykkel - Endurance low 45 min (<200 W)",
+"sek": "Recovery",
+"okt": "Day off",
 "min": 65,
 "tid": null,
 "kom": null
@@ -1697,7 +1697,7 @@
 "date": "2026-10-26",
 "week": "w44 2026",
 "dag": "Mandag",
-"hoved": null,
+"hoved": "SS-innledning med VO2-innslag",
 "sek": null,
 "okt": null,
 "min": null,
@@ -1834,7 +1834,7 @@
 "okt": null,
 "min": null,
 "tid": null,
-"kom": null
+"kom": "Trolig redusert form pga konsert fredag, så kun rolig her"
 },
 {
 "date": "2026-11-08",
