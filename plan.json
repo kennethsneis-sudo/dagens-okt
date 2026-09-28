@@ -1698,15 +1698,323 @@
 "week": "w44 2026",
 "dag": "Mandag",
 "hoved": "SS-innledning med VO2-innslag",
-"sek": null,
-"okt": null,
-"min": null,
+"sek": "Endurance",
+"okt": "Endurance 1:00 (200–250 W, HR 120–140)",
+"min": 60,
 "tid": null,
 "kom": "Start 2027 sesongen"
 },
 {
 "date": "2026-10-27",
 "week": "w44 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "SS",
+"okt": "SS 3×18 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 2:00 endurance (200–250 W)",
+"min": 120,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-10-28",
+"week": "w44 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 20 min rolig (HR <140) + \nSykkel Endurance 1:15 (200–250 W, HR 120–140)",
+"min": 95,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-10-29",
+"week": "w44 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "Over-under 2×12 min: 3 min @ 285–290 W / 3 min @ 375–380 W, 8 min Z1 mellom. Innenfor 2:00 endurance",
+"min": 120,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-10-30",
+"week": "w44 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "FRC",
+"okt": "Endurance 1:15 (200–250 W, HR 120–140) + 3×3×30 s maks til slutt. 4 min mellom rep, 8 min mellom sett",
+"min": 75,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-10-31",
+"week": "w44 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance 1:45 (200–250 W, HR 120–140)",
+"min": 105,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-01",
+"week": "w44 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 20 min rolig (HR <140) + \nLangtur 3:00 Z2 (200–250 W, HR 120–140, α1 0,9–1,2)",
+"min": 200,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-02",
+"week": "w45 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-03",
+"week": "w45 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "SS",
+"okt": "SS 3×22 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 2:30 endurance (200–250 W)",
+"min": 150,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-04",
+"week": "w45 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 20 min rolig (HR <140) + \nSykkel Endurance 1:45 (200–250 W, HR 120–140)",
+"min": 125,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-05",
+"week": "w45 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "Over-under 3×12 min: 3 min @ 285–290 W / 3 min @ 375–380 W, 8 min Z1 mellom. Innenfor 2:15 endurance",
+"min": 135,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-06",
+"week": "w45 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "FRC",
+"okt": "Endurance 1:30 (200–250 W, HR 120–140) + 3×3×30 s maks til slutt. 4 min mellom rep, 8 min mellom sett",
+"min": 90,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-07",
+"week": "w45 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Recovery 1:00 Z1 (<180 W, HR <120)",
+"min": 60,
+"tid": null,
+"kom": "Trolig redusert form pga konsert fredag, så kun rolig her"
+},
+{
+"date": "2026-11-08",
+"week": "w45 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 20 min rolig (HR <140) + \nLangtur 4:00 Z2 (200–250 W, HR 120–140, α1 0,9–1,2)",
+"min": 260,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-09",
+"week": "w46 2026",
+"dag": "Mandag",
+"hoved": null,
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-10",
+"week": "w46 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "SS",
+"okt": "SS 2×35 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 2:30 endurance (200–250 W)",
+"min": 150,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-11",
+"week": "w46 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 25 min rolig (HR <140) + \nSykkel Endurance 1:45 (200–250 W, HR 120–140)",
+"min": 130,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-12",
+"week": "w46 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "THP",
+"okt": "Over-under 4×12 min: 3 min @ 285–290 W / 3 min @ 375–380 W, 8 min Z1 mellom. Innenfor 2:30 endurance",
+"min": 150,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-13",
+"week": "w46 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance 1:30 (200–250 W, HR 120–140)",
+"min": 90,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-14",
+"week": "w46 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "FRC",
+"okt": "Endurance 2:30 (200–250 W) + 5×1 min maks etter 45 min, 4 min Z1 mellom. Jevnest mulig over alle fem",
+"min": 150,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-15",
+"week": "w46 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 25 min rolig (HR <140) + \nLangtur 4:00 Z2 (200–250 W, HR 120–140, α1 0,9–1,2)",
+"min": 265,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-16",
+"week": "w47 2026",
+"dag": "Mandag",
+"hoved": "Lett uke | Restitusjon",
+"sek": "Recovery",
+"okt": "Day off",
+"min": 0,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-17",
+"week": "w47 2026",
+"dag": "Tirsdag",
+"hoved": null,
+"sek": "SS",
+"okt": "SS 2×18 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 1:30 endurance (200–250 W)",
+"min": 90,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-18",
+"week": "w47 2026",
+"dag": "Onsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 25 min rolig (HR <140) + \nSykkel Endurance 1:15 (200–250 W, HR 120–140)",
+"min": 100,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-19",
+"week": "w47 2026",
+"dag": "Torsdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance 1:00 (200–250 W, HR 120–140)",
+"min": 60,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-20",
+"week": "w47 2026",
+"dag": "Fredag",
+"hoved": null,
+"sek": "FRC",
+"okt": "Endurance 1:15 (200–250 W, HR 120–140) + 3×3×30 s maks til slutt. 4 min mellom rep, 8 min mellom sett",
+"min": 75,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-21",
+"week": "w47 2026",
+"dag": "Lørdag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "Endurance 1:00 (200–250 W, HR 120–140)",
+"min": 60,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-22",
+"week": "w47 2026",
+"dag": "Søndag",
+"hoved": null,
+"sek": "Endurance",
+"okt": "🏃 Løp 25 min rolig (HR <140) + \nLangtur 3:15 Z2 (200–250 W, HR 120–140, α1 0,9–1,2)",
+"min": 220,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-23",
+"week": "w48 2026",
+"dag": "Mandag",
+"hoved": "VO2-blokk 1: konsentrert start, deretter vedlikehold",
+"sek": null,
+"okt": null,
+"min": null,
+"tid": null,
+"kom": null
+},
+{
+"date": "2026-11-24",
+"week": "w48 2026",
 "dag": "Tirsdag",
 "hoved": null,
 "sek": null,
@@ -1716,8 +2024,8 @@
 "kom": null
 },
 {
-"date": "2026-10-28",
-"week": "w44 2026",
+"date": "2026-11-25",
+"week": "w48 2026",
 "dag": "Onsdag",
 "hoved": null,
 "sek": null,
@@ -1727,8 +2035,8 @@
 "kom": null
 },
 {
-"date": "2026-10-29",
-"week": "w44 2026",
+"date": "2026-11-26",
+"week": "w48 2026",
 "dag": "Torsdag",
 "hoved": null,
 "sek": null,
@@ -1738,8 +2046,8 @@
 "kom": null
 },
 {
-"date": "2026-10-30",
-"week": "w44 2026",
+"date": "2026-11-27",
+"week": "w48 2026",
 "dag": "Fredag",
 "hoved": null,
 "sek": null,
@@ -1749,8 +2057,8 @@
 "kom": null
 },
 {
-"date": "2026-10-31",
-"week": "w44 2026",
+"date": "2026-11-28",
+"week": "w48 2026",
 "dag": "Lørdag",
 "hoved": null,
 "sek": null,
@@ -1760,8 +2068,8 @@
 "kom": null
 },
 {
-"date": "2026-11-01",
-"week": "w44 2026",
+"date": "2026-11-29",
+"week": "w48 2026",
 "dag": "Søndag",
 "hoved": null,
 "sek": null,
@@ -1771,8 +2079,8 @@
 "kom": null
 },
 {
-"date": "2026-11-02",
-"week": "w45 2026",
+"date": "2026-11-30",
+"week": "w49 2026",
 "dag": "Mandag",
 "hoved": null,
 "sek": null,
@@ -1782,8 +2090,8 @@
 "kom": null
 },
 {
-"date": "2026-11-03",
-"week": "w45 2026",
+"date": "2026-12-01",
+"week": "w49 2026",
 "dag": "Tirsdag",
 "hoved": null,
 "sek": null,
@@ -1793,8 +2101,8 @@
 "kom": null
 },
 {
-"date": "2026-11-04",
-"week": "w45 2026",
+"date": "2026-12-02",
+"week": "w49 2026",
 "dag": "Onsdag",
 "hoved": null,
 "sek": null,
@@ -1804,8 +2112,8 @@
 "kom": null
 },
 {
-"date": "2026-11-05",
-"week": "w45 2026",
+"date": "2026-12-03",
+"week": "w49 2026",
 "dag": "Torsdag",
 "hoved": null,
 "sek": null,
@@ -1815,8 +2123,8 @@
 "kom": null
 },
 {
-"date": "2026-11-06",
-"week": "w45 2026",
+"date": "2026-12-04",
+"week": "w49 2026",
 "dag": "Fredag",
 "hoved": null,
 "sek": null,
@@ -1826,19 +2134,19 @@
 "kom": null
 },
 {
-"date": "2026-11-07",
-"week": "w45 2026",
+"date": "2026-12-05",
+"week": "w49 2026",
 "dag": "Lørdag",
 "hoved": null,
 "sek": null,
 "okt": null,
 "min": null,
 "tid": null,
-"kom": "Trolig redusert form pga konsert fredag, så kun rolig her"
+"kom": null
 },
 {
-"date": "2026-11-08",
-"week": "w45 2026",
+"date": "2026-12-06",
+"week": "w49 2026",
 "dag": "Søndag",
 "hoved": null,
 "sek": null,
