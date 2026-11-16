@@ -1940,9 +1940,9 @@
 "week": "w47 2026",
 "dag": "Tirsdag",
 "hoved": null,
-"sek": "SS",
-"okt": "SS 2×18 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 1:30 endurance (200–250 W)",
-"min": 90,
+"sek": "Recovery",
+"okt": "Endurance low 1:00 (100-200 W, HR 100-120)",
+"min": 60,
 "tid": null,
 "kom": null
 },
@@ -1951,9 +1951,9 @@
 "week": "w47 2026",
 "dag": "Onsdag",
 "hoved": null,
-"sek": "Endurance",
-"okt": "🏃 Løp 25 min rolig (HR <140) + \nSykkel Endurance 1:15 (200–250 W, HR 120–140)",
-"min": 100,
+"sek": "SS",
+"okt": "SS 2×18 min @ 301–307 W (HR 160–172), 5 min Z1 mellom. Innenfor 1:30 endurance (200–250 W)",
+"min": 90,
 "tid": null,
 "kom": null
 },
@@ -1964,7 +1964,7 @@
 "hoved": null,
 "sek": "Endurance",
 "okt": "Endurance 1:00 (200–250 W, HR 120–140)",
-"min": 60,
+"min": 75,
 "tid": null,
 "kom": null
 },
@@ -2065,7 +2065,7 @@
 "okt": null,
 "min": null,
 "tid": null,
-"kom": null
+"kom": "Redusert form pga julebord fredag, så kun rolig her"
 },
 {
 "date": "2026-11-29",
